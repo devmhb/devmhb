@@ -23,7 +23,7 @@
 
 ---
 
-<img align="left" alt="hrshainik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devmhb&show_icons=true&hide_border=true" />
+
 
 [instagram]: https://instagram.com/devmhb
 [linkedin]: https://linkedin.com/in/devmhb
